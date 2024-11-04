@@ -1,0 +1,72 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Stylish Sneakers",
+        "image": "https://m.media-amazon.com/images/I/71cflgAolqL._SY625_.jpg",
+        "price": 3999, 
+        "description": "Comfortable and stylish sneakers for everyday wear, crafted from breathable materials.",
+        "category": "Footwear",
+        "brand": "UrbanKicks",
+        "stock": 100,
+        "rating": 4.5,
+        "color": "White and Blue",
+        "sizes": ["6", "7", "8", "9", "10"]
+      },
+      {
+        "id": 2,
+        "name": "Leather Jacket",
+        "image": "https://m.media-amazon.com/images/I/41JSOW+ihCL._SY300_SX300_.jpg",
+        "price": 7299,  
+        "description": "Classic leather jacket crafted with high-quality leather for a timeless look.",
+        "category": "Clothing",
+        "brand": "LeatherWorks",
+        "stock": 50,
+        "rating": 4.7,
+        "color": "Black",
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": 3,
+        "name": "Wrist Watch",
+        "image": "https://m.media-amazon.com/images/I/71ZHzp8x45L._SX679_.jpg",
+        "price": 2499,  
+        "description": "Elegant wristwatch with a minimalist design, suitable for both casual and formal occasions.",
+        "category": "Accessories",
+        "brand": "Timeless",
+        "stock": 200,
+        "rating": 4.3,
+        "color": "Silver",
+        "materials": "Stainless Steel",
+        "water_resistant": true
+      },
+      {
+        "id": 4,
+        "name": "Sports Backpack",
+        "image": "https://m.media-amazon.com/images/I/61pM2eANxHL._SX679_.jpg",
+        "price": 3299,  
+        "description": "Durable and spacious backpack perfect for sports, travel, or daily use with multiple compartments.",
+        "category": "Bags",
+        "brand": "Adventure Gear",
+        "stock": 150,
+        "rating": 4.4,
+        "color": "Red and Black",
+        "capacity": "25L"
+      },
+      {
+        "id": 5,
+        "name": "Wireless Earbuds",
+        "image": "https://m.media-amazon.com/images/I/71XZM7A+wpL._SY450_.jpg",
+        "price": 4999,  
+        "description": "High-quality wireless earbuds with noise-cancellation for immersive sound experience.",
+        "category": "Electronics",
+        "brand": "SoundWave",
+        "stock": 300,
+        "rating": 4.6,
+        "battery_life": "8 hours",
+        "color": "Black",
+        "water_resistant": true
+      }
+    ]
+  }
+  
